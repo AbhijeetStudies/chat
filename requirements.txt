@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+transformers
+torch
+accelerate>=0.26.0
